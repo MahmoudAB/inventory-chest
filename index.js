@@ -1,5 +1,5 @@
 import express from 'express';
-import routes from './src/routes/inventoryChestRoutes'
+import routes from './src/routes/InventoryChestRoutes'
 import mongoose from 'mongoose'
 import bodyParser from 'body-parser'
 
